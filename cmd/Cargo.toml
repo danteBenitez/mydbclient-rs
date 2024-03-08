@@ -1,0 +1,7 @@
+[package]
+name = "cmd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+db_client = { path = "../client" } 

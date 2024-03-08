@@ -1,0 +1,7 @@
+[workspace]
+members = [
+   "client",
+   "cmd"
+]
+resolver = "2"
+
