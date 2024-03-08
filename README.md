@@ -20,7 +20,7 @@ port = 3306
 - [X] Read configuration file and print errors when needed.
     - [X] Read username, password, db_name, host and port.
 - [X] Connect to the database via TCP/IP's abstraction (`std::net::TcpStream` in Rust).
-- [] Complete handshake with the server.
+- [ ] Complete handshake with the server.
     - [] Send authentication to the server.
-- [] Send a query to the server.
-- [] Parse the result and print it to the console.
+- [ ] Send a query to the server.
+- [ ] Parse the result and print it to the console.
